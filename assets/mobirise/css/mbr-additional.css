@@ -1117,6 +1117,10 @@ section.lazy-placeholder:after {
 .cid-rKu2cDdEFH .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rJcjDNnBJG .mbr-text,
+.cid-rJcjDNnBJG .mbr-section-btn {
+  color: #cebfaf;
+}
 .cid-rMqbcd1DkD {
   padding-top: 30px;
   padding-bottom: 120px;
